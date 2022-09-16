@@ -1,14 +1,14 @@
-### Hi I'm Erin 👋
+# Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-### :woman_technologist: About Me :
-I am a Junior Full Stack Developer 
+### 
+My name is Erin and I am a Junior Software Developer :woman_technologist:  
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erin-czarnecki)
-- :sunny: Pronouns: she/her
+- :sunny: Pronouns - she/her
+- :mailbox: Connect with me on [LinkedIn](https://linkedin.com/in/erin-czarnecki)
 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,7 +26,6 @@ I am a Junior Full Stack Developer
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erinczarnecki)](https://git.io/streak-stats)
+### :fire: Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erinczarnecki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
