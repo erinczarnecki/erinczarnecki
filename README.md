@@ -1,31 +1,23 @@
-# Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Erin Czarnecki
 
-### 
-My name is Erin and I am a Junior Software Developer :woman_technologist:  
+👋 Hi, I'm Erin. I am a freelance Frontend Software/Web Developer. I recently completed an intensive Full Stack Java Developer bootcamp with Merit America. I previously worked in customer-facing roles in real estate, higher education, and sales. I love applying my creative, technical, and relationships skills to complex problems.
 
-- :sunny: Pronouns - she/her
-- :mailbox: Connect with me on [LinkedIn](https://linkedin.com/in/erin-czarnecki)
+## :woman_technologist:  About Me  
+:telescope:  I'm currently coding: Several retail websites - mixture of static, dynamic, and [Jamstack](https://jamstack.org/) architecture  
+:seedling:  I'm currently working on: Improving my web accessibility knowledge and skills to ensure a positive, equitable user experience      
+:sparkles:  What I want to learn next: Upgrading my React skills with [React Native](https://reactnative.dev/) and [Epic React](https://epicreact.dev/).  
+:sunny:  Pronouns: she/her  
+:mailbox:  Connect with me on [LinkedIn](https://linkedin.com/in/erin-czarnecki)  
+  
+
+## :wrench: Tools I Like To Use
+- [JavaScript](https://www.javascript.com/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Redux](https://redux.js.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 
----
-### :hammer_and_wrench: Languages & Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: Stats
+## :fire: Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erinczarnecki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
