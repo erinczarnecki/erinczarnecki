@@ -1,6 +1,6 @@
 # Erin Czarnecki
 
-👋 Hi, I'm Erin. I am a freelance Frontend Software/Web Developer. I recently completed an intensive Full Stack Java Developer bootcamp with Merit America. I previously worked in customer-facing roles in real estate, higher education, and sales. I love applying my creative, technical, and relationships skills to complex problems.
+👋 Hi, I'm Erin. I am a freelance Frontend Software Developer/Web Developer. I recently completed an intensive Full Stack Java Developer bootcamp with Merit America. I previously worked in customer-facing roles in real estate, higher education, and sales. I love applying my creative, technical, and relationships skills to complex problems.
 
 ## :woman_technologist:  About Me  
 :telescope:  I'm currently coding: Several retail websites - mixture of static, dynamic, and [Jamstack](https://jamstack.org/) architecture  
