@@ -1,22 +1,21 @@
 # Erin Czarnecki
 
-👋 Hi, I'm Erin. I am a freelance Frontend Software Developer/Web Developer. I recently completed an intensive Full Stack Java Developer bootcamp with Merit America. I previously worked in customer-facing roles in real estate, higher education, and sales. I love applying my creative, technical, and relationships skills to complex problems.
+👋 Hi, I'm Erin. 
 
-## :woman_technologist:  About Me  
-:telescope:  I'm currently coding: Working on some small-business website updates and practicing with [Swift](https://developer.apple.com/swift/)  
-:seedling:  I'm currently working on: Improving my web accessibility knowledge and skills to ensure a positive, equitable user experience      
-:sparkles:  What I want to learn next: Upgrading my React skills with [React Native](https://reactnative.dev/) and [Epic React](https://epicreact.dev/)  
-:sunny:  Pronouns: she/her  
-:mailbox:  Connect with me on [LinkedIn](https://linkedin.com/in/erin-czarnecki)  
+## 👩‍💻:  About Me  
+💻:  I'm currently coding: I am a Software Engineer working on a data engineering team at Wells Fargo.    
+🌱:  I'm currently working on: Google Cloud Certification and GenAI     
+☀️:  Pronouns: she/her  
+📫:  Connect with me on [LinkedIn](https://linkedin.com/in/erin-czarnecki)  
   
 
-## :wrench: Tools I Like To Use
+## 🛠️: Tools I Like To Use
+- [Sql Server Management Studio](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms)
+- [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi#Product-overview)
 - [JavaScript](https://www.javascript.com/)
 - [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Redux](https://redux.js.org/)
-- [Bootstrap](https://getbootstrap.com/)
+- [GitHub Copilot](https://github.com/features/copilot/)
 
 
-## :fire: Stats
+## 🔥: Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erinczarnecki)](https://github.com/anuraghazra/github-readme-stats)
